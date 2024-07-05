@@ -10,14 +10,11 @@
 
 
 ## 🎯 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-khater&layout=compact)](https://github.com/nada-khater/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-khater&layout=compact&theme=dark)](https://github.com/nada-khater/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nada-khater&show_icons=true&locale=en" alt="nada-khater" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nada-khater&show_icons=true&locale=en&theme=dark" alt="nada-khater" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nada-khater)](https://git.io/streak-stats)
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nada-khater&theme=dark)](https://git.io/streak-stats)
 
 
 ## 📧 Connect with me 
